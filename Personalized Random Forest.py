@@ -1,4 +1,5 @@
 import os
+import tensorflow as tf
 import numpy as np
 from dtw import dtw
 from numpy import linalg as la
